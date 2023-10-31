@@ -1,27 +1,30 @@
 ansible==7.0.0
 ansible-core==2.14.0
 brotlipy==0.7.0
-certifi @ file:///croot/certifi_1690232220950/work/certifi
-cffi @ file:///croot/cffi_1670423208954/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+certifi==2023.7.22
+cffi==1.15.1
+charset-normalizer==2.0.4
 conda==22.9.0
-conda-package-handling @ file:///croot/conda-package-handling_1690999929514/work
-conda_package_streaming @ file:///croot/conda-package-streaming_1690987966409/work
-cryptography @ file:///croot/cryptography_1694444244250/work
-idna @ file:///croot/idna_1666125576474/work
+conda-package-handling==2.2.0
+conda_package_streaming==0.9.0
+cryptography==41.0.3
+idna==3.4
 Jinja2==3.1.2
 MarkupSafe==2.1.1
 numpy==1.26.1
 packaging==21.3
-pycosat @ file:///croot/pycosat_1666805502580/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pip==23.2.1
+pycosat==0.6.4
+pycparser==2.21
+pyOpenSSL==23.2.0
 pyparsing==3.0.9
-PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+PySocks==1.7.1
 PyYAML==6.0
-requests @ file:///croot/requests_1690400202158/work
+requests==2.31.0
 resolvelib==0.8.1
-ruamel-yaml-conda @ file:///tmp/build/80754af9/ruamel_yaml_1616016711199/work
-toolz @ file:///croot/toolz_1667464077321/work
-urllib3 @ file:///croot/urllib3_1686163155763/work
-zstandard @ file:///croot/zstandard_1677013143055/work
+ruamel-yaml-conda==0.15.100
+setuptools==68.0.0
+toolz==0.12.0
+urllib3==1.26.16
+wheel==0.41.2
+zstandard==0.19.0
